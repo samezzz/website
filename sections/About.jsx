@@ -20,7 +20,7 @@ const About = () => (
       
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
-        className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
+        className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-[#b0b0b0]"
       >
         <span className="font-extrabold">Danebes</span> is a ...<span className="font-extrabold">biomedical </span>more info about Danebes...<span className="font-extrabold">Services</span> even more info about Danebes
       </motion.p>

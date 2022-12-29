@@ -19,7 +19,7 @@ const World = () => (
       <TitleText
         title={(
           <>
-            Various branches all over the world
+            Products from all over the world
           </>
         )}
         textStyles="text-center" />
